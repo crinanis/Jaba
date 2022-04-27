@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<broadcastbase>
+
+    <elements>
+
+        <broadcast name="Cartoon" title="Avatar" year="2005" duration="20" type="Cartoon"></broadcast>
+        <broadcast name="Movies" title="Kingsman" year="2014" duration="130" type="Movies"></broadcast>
+        <broadcast name="Series" title="Stranger things" year="2016" duration="45" type="Series"></broadcast>
+        <broadcast name="Cartoon" title="Up!" year="2009" duration="88" type="Cartoon"></broadcast>
+
+    </elements>
+
+</broadcastbase>
