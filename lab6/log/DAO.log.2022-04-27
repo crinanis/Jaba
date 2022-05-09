@@ -1,0 +1,673 @@
+27.04.2022 01:57:14 [main] INFO  com.company.Main  - 
+Р’СЃРµ Р»СЋРґРё
+
+27.04.2022 01:57:14 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 01:57:14 [main] INFO  com.company.Main  - 
+РРЅС„РѕСЂРјР°С†РёСЋ Рѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏС…, Р° С‚Р°РєР¶Рµ РєРѕР»РёС‡РµСЃС‚РІРµ РїРѕР»СѓС‡РµРЅРЅС‹С… Рё РѕС‚РїСЂР°РІР»РµРЅРЅС‹С… РёРјРё РїРёСЃСЊРјР°С….
+
+27.04.2022 01:57:14 [main] INFO  com.company.Main  - Letters.DAO_Person@1c7696c6
+27.04.2022 01:57:14 [main] INFO  com.company.Main  - 
+РЎРїРёСЃРѕРє РІСЃРµС… РїРёСЃРµРј
+27.04.2022 01:57:14 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', id_letter=1}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', id_letter=2}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', id_letter=3}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', id_letter=4}, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', id_letter=5}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', id_letter=6}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', id_letter=7}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', id_letter=8}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', id_letter=9}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', id_letter=10}]
+
+27.04.2022 01:57:14 [main] INFO  com.company.Main  - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ, РґР»РёРЅР° РїРёСЃРµРј РєРѕС‚РѕСЂРѕРіРѕ РЅР°РёРјРµРЅСЊС€Р°СЏ
+27.04.2022 01:59:06 [main] INFO  com.company.Main  - 
+Р’СЃРµ Р»СЋРґРё
+
+27.04.2022 01:59:06 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 01:59:06 [main] INFO  com.company.Main  - 
+РРЅС„РѕСЂРјР°С†РёСЋ Рѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏС…, Р° С‚Р°РєР¶Рµ РєРѕР»РёС‡РµСЃС‚РІРµ РїРѕР»СѓС‡РµРЅРЅС‹С… Рё РѕС‚РїСЂР°РІР»РµРЅРЅС‹С… РёРјРё РїРёСЃСЊРјР°С….
+
+27.04.2022 01:59:06 [main] INFO  com.company.Main  - Letters.DAO_Person@6574a52c
+27.04.2022 01:59:06 [main] INFO  com.company.Main  - 
+РЎРїРёСЃРѕРє РІСЃРµС… РїРёСЃРµРј
+27.04.2022 01:59:06 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', id_letter=1}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', id_letter=2}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', id_letter=3}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', id_letter=4}, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', id_letter=5}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', id_letter=6}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', id_letter=7}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', id_letter=8}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', id_letter=9}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', id_letter=10}]
+
+27.04.2022 01:59:06 [main] INFO  com.company.Main  - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ, РґР»РёРЅР° РїРёСЃРµРј РєРѕС‚РѕСЂРѕРіРѕ РЅР°РёРјРµРЅСЊС€Р°СЏ
+27.04.2022 02:06:59 [main] INFO  com.company.Main  - 
+Р’СЃРµ Р»СЋРґРё
+
+27.04.2022 02:06:59 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 02:06:59 [main] INFO  com.company.Main  - 
+РРЅС„РѕСЂРјР°С†РёСЋ Рѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏС…, Р° С‚Р°РєР¶Рµ РєРѕР»РёС‡РµСЃС‚РІРµ РїРѕР»СѓС‡РµРЅРЅС‹С… Рё РѕС‚РїСЂР°РІР»РµРЅРЅС‹С… РёРјРё РїРёСЃСЊРјР°С….
+
+27.04.2022 02:06:59 [main] INFO  com.company.Main  - Letters.DAO_Person@6574a52c
+27.04.2022 02:06:59 [main] INFO  com.company.Main  - 
+РЎРїРёСЃРѕРє РІСЃРµС… РїРёСЃРµРј
+27.04.2022 02:06:59 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', id_letter=1}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', id_letter=2}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', id_letter=3}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', id_letter=4}, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', id_letter=5}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', id_letter=6}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', id_letter=7}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', id_letter=8}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', id_letter=9}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', id_letter=10}]
+
+27.04.2022 02:06:59 [main] INFO  com.company.Main  - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ, РґР»РёРЅР° РїРёСЃРµРј РєРѕС‚РѕСЂРѕРіРѕ РЅР°РёРјРµРЅСЊС€Р°СЏ
+27.04.2022 02:06:59 [main] INFO  com.company.Main  - [
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='null', theme='null', text='null', date of sending=null', id_letter=null}]
+
+27.04.2022 02:19:48 [main] INFO  com.company.Main  - 
+Р’СЃРµ Р»СЋРґРё
+
+27.04.2022 02:19:48 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 02:19:48 [main] INFO  com.company.Main  - 
+РРЅС„РѕСЂРјР°С†РёСЋ Рѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏС…, Р° С‚Р°РєР¶Рµ РєРѕР»РёС‡РµСЃС‚РІРµ РїРѕР»СѓС‡РµРЅРЅС‹С… Рё РѕС‚РїСЂР°РІР»РµРЅРЅС‹С… РёРјРё РїРёСЃСЊРјР°С….
+
+27.04.2022 02:19:48 [main] INFO  com.company.Main  - Letters.DAO_Person@6574a52c
+27.04.2022 02:19:48 [main] INFO  com.company.Main  - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ, РґР»РёРЅР° РїРёСЃРµРј РєРѕС‚РѕСЂРѕРіРѕ РЅР°РёРјРµРЅСЊС€Р°СЏ
+27.04.2022 02:21:13 [main] INFO  com.company.Main  - 
+Р’СЃРµ Р»СЋРґРё
+
+27.04.2022 02:21:13 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 02:21:13 [main] INFO  com.company.Main  - 
+РРЅС„РѕСЂРјР°С†РёСЋ Рѕ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏС…, Р° С‚Р°РєР¶Рµ РєРѕР»РёС‡РµСЃС‚РІРµ РїРѕР»СѓС‡РµРЅРЅС‹С… Рё РѕС‚РїСЂР°РІР»РµРЅРЅС‹С… РёРјРё РїРёСЃСЊРјР°С….
+
+27.04.2022 02:21:13 [main] INFO  com.company.Main  - Letters.DAO_Person@6574a52c
+27.04.2022 02:21:13 [main] INFO  com.company.Main  - РџРѕР»СЊР·РѕРІР°С‚РµР»СЊ, РґР»РёРЅР° РїРёСЃРµРј РєРѕС‚РѕСЂРѕРіРѕ РЅР°РёРјРµРЅСЊС€Р°СЏ
+27.04.2022 02:21:36 [main] INFO  com.company.Main  - 
+Р вЂ™РЎРѓР Вµ Р В»РЎР‹Р Т‘Р С‘
+
+27.04.2022 02:21:36 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 02:21:36 [main] INFO  com.company.Main  - 
+Р пїЅР Р…РЎвЂћР С•РЎР‚Р СР В°РЎвЂ Р С‘РЎР‹ Р С• Р С—Р С•Р В»РЎРЉР В·Р С•Р Р†Р В°РЎвЂљР ВµР В»РЎРЏРЎвЂ¦, Р В° РЎвЂљР В°Р С”Р В¶Р Вµ Р С”Р С•Р В»Р С‘РЎвЂЎР ВµРЎРѓРЎвЂљР Р†Р Вµ Р С—Р С•Р В»РЎС“РЎвЂЎР ВµР Р…Р Р…РЎвЂ№РЎвЂ¦ Р С‘ Р С•РЎвЂљР С—РЎР‚Р В°Р Р†Р В»Р ВµР Р…Р Р…РЎвЂ№РЎвЂ¦ Р С‘Р СР С‘ Р С—Р С‘РЎРѓРЎРЉР СР В°РЎвЂ¦.
+
+27.04.2022 02:21:36 [main] INFO  com.company.Main  - Letters.DAO_Person@6574a52c
+27.04.2022 02:21:36 [main] INFO  com.company.Main  - Р СџР С•Р В»РЎРЉР В·Р С•Р Р†Р В°РЎвЂљР ВµР В»РЎРЉ, Р Т‘Р В»Р С‘Р Р…Р В° Р С—Р С‘РЎРѓР ВµР С Р С”Р С•РЎвЂљР С•РЎР‚Р С•Р С–Р С• Р Р…Р В°Р С‘Р СР ВµР Р…РЎРЉРЎв‚¬Р В°РЎРЏ
+27.04.2022 02:23:35 [main] INFO  com.company.Main  - 
+Все люди
+
+27.04.2022 02:23:36 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 02:23:36 [main] INFO  com.company.Main  - 
+Информацию о пользователях, а также количестве полученных и отправленных ими письмах.
+
+27.04.2022 02:23:36 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 02:23:36 [main] INFO  com.company.Main  - Пользователь, длина писем которого наименьшая
+27.04.2022 02:26:37 [main] INFO  com.company.Main  - 
+Все люди
+
+27.04.2022 02:26:37 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 02:26:37 [main] INFO  com.company.Main  - 
+Информацию о пользователях, а также количестве полученных и отправленных ими письмах.
+
+27.04.2022 02:26:37 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 02:26:37 [main] INFO  com.company.Main  - Пользователь, длина писем которого наименьшая
+27.04.2022 02:26:37 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='null', sends='no information'receives='no information}]
+
+27.04.2022 02:26:37 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 02:26:38 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', id_letter=1}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', id_letter=2}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', id_letter=3}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', id_letter=4}, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', id_letter=5}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', id_letter=6}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', id_letter=7}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', id_letter=8}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', id_letter=9}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', id_letter=10}]
+
+27.04.2022 02:27:45 [main] INFO  com.company.Main  - 
+Все люди
+
+27.04.2022 02:27:45 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information'receives='no information}, 
+Author{Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information'receives='no information}]
+
+27.04.2022 02:27:45 [main] INFO  com.company.Main  - 
+ Информацию о пользователях, а также количестве полученных и отправленных ими письмах.
+
+27.04.2022 02:27:45 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 02:27:45 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая
+27.04.2022 02:27:45 [main] INFO  com.company.Main  - [
+Author{Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='null', sends='no information'receives='no information}]
+
+27.04.2022 02:27:45 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 02:27:45 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', id_letter=1}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', id_letter=2}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', id_letter=3}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', id_letter=4}, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', id_letter=5}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', id_letter=6}, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', id_letter=7}, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', id_letter=8}, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', id_letter=9}, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', id_letter=10}]
+
+27.04.2022 02:30:09 [main] INFO  com.company.Main  - 
+Все люди
+
+27.04.2022 02:30:09 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information', receives='no information }]
+
+27.04.2022 02:30:09 [main] INFO  com.company.Main  - 
+ Информацию о пользователях, а также количестве полученных и отправленных ими письмах.
+
+27.04.2022 02:30:09 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 02:30:09 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая
+27.04.2022 02:30:09 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='null', sends='no information', receives='no information }]
+
+27.04.2022 02:30:09 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 02:30:09 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 02:33:44 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 02:33:44 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information', receives='no information }]
+
+27.04.2022 02:33:44 [main] INFO  com.company.Main  - 
+ Информацию о пользователях, а также количестве полученных и отправленных ими письмах:
+
+27.04.2022 02:33:44 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 02:33:44 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 02:33:44 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='null', sends='no information', receives='no information }]
+
+27.04.2022 02:33:44 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 02:33:44 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 02:36:22 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 02:36:22 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no information', receives='no information }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no information', receives='no information }]
+
+27.04.2022 02:36:22 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 02:36:22 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='null', sends='no information', receives='no information }]
+
+27.04.2022 02:36:22 [main] INFO  com.company.Main  - 
+ Информацию о пользователях, а также количестве полученных и отправленных ими письмах:
+
+27.04.2022 02:36:22 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 02:36:22 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 02:36:22 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 02:40:48 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 02:40:48 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 02:40:48 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 02:40:48 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='no info', sends='no info', receives='no info }]
+
+27.04.2022 02:40:48 [main] INFO  com.company.Main  - 
+ Информацию о пользователях, а также количестве полученных и отправленных ими письмах:
+
+27.04.2022 02:40:48 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 02:40:48 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 02:40:48 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='no info', sends='no info', receives='no info }]
+
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - 
+ Информация о пользователях, а также количестве полученных и отправленных ими письмах:
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые получили хотя бы одно сообщение с заданной темой:
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 03:02:56 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые не получали сообщения с заданной темой:
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='no info', sends='no info', receives='no info }]
+
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - 
+ Информация о пользователях, а также количестве полученных и отправленных ими письмах:
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые получили хотя бы одно сообщение с заданной темой:
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 03:03:37 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые не получали сообщения с заданной темой:
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='no info', sends='no info', receives='no info }]
+
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - 
+ Информация о пользователях, а также количестве полученных и отправленных ими письмах:
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые получили хотя бы одно сообщение с заданной темой:
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые не получали сообщения с заданной темой:
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - Letters.DAO_Person@1ffaf86
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 03:05:29 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - 
+ Информация о пользователях, а также количестве полученных и отправленных ими письмах:
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='3', receives='1 }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='1', receives='3 }]
+
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - [
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='no info', theme='no info', text='no info', date of sending=no info', letter_id=null }]
+
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые получили хотя бы одно сообщение с заданной темой:
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - [
+Letters{ sender='no info', receiver='Budanava Ksenya Andreevna', theme='no info', text='no info', date of sending=no info', letter_id=null }, 
+Letters{ sender='no info', receiver='Nikolaeva Evgeniya Vladimirovna', theme='no info', text='no info', date of sending=no info', letter_id=null }, 
+Letters{ sender='no info', receiver='Gud Vladislav Evgenievich', theme='no info', text='no info', date of sending=no info', letter_id=null }]
+
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые не получали сообщения с заданной темой:
+27.04.2022 03:12:51 [main] INFO  com.company.Main  - [
+Letters{ sender='no info', receiver='Valdaycev Aleksandr Denisovich', theme='no info', text='no info', date of sending=no info', letter_id=null }, 
+Letters{ sender='no info', receiver='Dimitriadi Anton Vladimirovich', theme='no info', text='no info', date of sending=no info', letter_id=null }]
+
+27.04.2022 03:14:18 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 03:14:18 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 03:14:18 [main] INFO  com.company.Main  - 
+ Информация о пользователях, а также количестве полученных и отправленных ими письмах:
+27.04.2022 03:14:18 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='3', receives='1 }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='1', receives='3 }]
+
+27.04.2022 03:14:18 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 03:14:18 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:14:18 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - 
+ Информация о пользователях, а также количестве полученных и отправленных ими письмах:
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='3', receives='1 }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='1', receives='3 }]
+
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - [
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }]
+
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые получили хотя бы одно сообщение с заданной темой:
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - [
+Letters{ sender='no info', receiver='Budanava Ksenya Andreevna', theme='no info', text='no info', date of sending=no info', letter_id=null }, 
+Letters{ sender='no info', receiver='Nikolaeva Evgeniya Vladimirovna', theme='no info', text='no info', date of sending=no info', letter_id=null }, 
+Letters{ sender='no info', receiver='Gud Vladislav Evgenievich', theme='no info', text='no info', date of sending=no info', letter_id=null }]
+
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые не получали сообщения с заданной темой:
+27.04.2022 03:15:19 [main] INFO  com.company.Main  - [
+Letters{ sender='no info', receiver='Valdaycev Aleksandr Denisovich', theme='no info', text='no info', date of sending=no info', letter_id=null }, 
+Letters{ sender='no info', receiver='Dimitriadi Anton Vladimirovich', theme='no info', text='no info', date of sending=no info', letter_id=null }]
+
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - 
+ Информация о пользователях, а также количестве полученных и отправленных ими письмах:
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='3', receives='1 }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='1', receives='3 }]
+
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - [
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='no info', theme='no info', text='no info', date of sending=no info', letter_id=null }]
+
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые получили хотя бы одно сообщение с заданной темой:
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - [
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые не получали сообщения с заданной темой:
+27.04.2022 03:16:39 [main] INFO  com.company.Main  - [
+Letters{ sender='no info', receiver='Valdaycev Aleksandr Denisovich', theme='no info', text='no info', date of sending=no info', letter_id=null }, 
+Letters{ sender='no info', receiver='Dimitriadi Anton Vladimirovich', theme='no info', text='no info', date of sending=no info', letter_id=null }]
+
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - 
+Все люди:
+
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='no info', receives='no info }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='no info', receives='no info }]
+
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - 
+ Информация о пользователях, а также количестве полученных и отправленных ими письмах:
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - [
+Author{ Surname name patronymic='Budanava Ksenya Andreevna', dateBirth='2003-07-10 00:00:00', sends='3', receives='1 }, 
+Author{ Surname name patronymic='Dimitriadi Anton Vladimirovich', dateBirth='2002-09-15 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Gud Vladislav Evgenievich', dateBirth='2002-08-13 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Nikolaeva Evgeniya Vladimirovna', dateBirth='2002-07-17 00:00:00', sends='2', receives='2 }, 
+Author{ Surname name patronymic='Valdaycev Aleksandr Denisovich', dateBirth='2002-08-12 00:00:00', sends='1', receives='3 }]
+
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - 
+Список всех писем
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - [
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Nikolaeva Evgeniya Vladimirovna', theme='English', text='English 1', date of sending=2022-03-21 00:00:00', letter_id=1 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Gud Vladislav Evgenievich', theme='Maths', text='Maths 1', date of sending=2022-04-25 00:00:00', letter_id=2 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - 
+ Пользователь, длина писем которого наименьшая:
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - [
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='no info', theme='no info', text='no info', date of sending=no info', letter_id=null }]
+
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые получили хотя бы одно сообщение с заданной темой:
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - [
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Budanava Ksenya Andreevna', theme='KGIG', text='KGIG 1', date of sending=2022-02-18 00:00:00', letter_id=6 }, 
+Letters{ sender='Dimitriadi Anton Vladimirovich', receiver='Nikolaeva Evgeniya Vladimirovna', theme='KGIG', text='KGIG 2', date of sending=2022-03-30 00:00:00', letter_id=9 }, 
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Gud Vladislav Evgenievich', theme='KGIG', text='KGIG 3', date of sending=2022-02-28 00:00:00', letter_id=10 }]
+
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - 
+ Вывести информацию о пользователях, которые не получали сообщения с заданной темой:
+27.04.2022 03:17:37 [main] INFO  com.company.Main  - [
+Letters{ sender='Nikolaeva Evgeniya Vladimirovna', receiver='Valdaycev Aleksandr Denisovich', theme='OOP', text='OOP 1', date of sending=2022-02-05 00:00:00', letter_id=3 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Dimitriadi Anton Vladimirovich', theme='JAVA', text='JAVA 1', date of sending=2022-01-23 00:00:00', letter_id=4 }, 
+Letters{ sender='Valdaycev Aleksandr Denisovich', receiver='Dimitriadi Anton Vladimirovich', theme='REACT', text='REACT 1', date of sending=2022-03-15 00:00:00', letter_id=5 }, 
+Letters{ sender='Budanava Ksenya Andreevna', receiver='Valdaycev Aleksandr Denisovich', theme='Maths', text='Maths 2', date of sending=2022-04-12 00:00:00', letter_id=7 }, 
+Letters{ sender='Gud Vladislav Evgenievich', receiver='Valdaycev Aleksandr Denisovich', theme='JAVA', text='JAVA 2', date of sending=2022-03-11 00:00:00', letter_id=8 }]
+
